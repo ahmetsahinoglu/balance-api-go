@@ -1,0 +1,6 @@
+appname: "balance-api-go"
+server:
+  port: ":3001"
+logLevel: "info"
+clients:
+  eth: "ethClientUrl"
